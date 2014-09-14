@@ -9,7 +9,7 @@ import java.awt.*;
 
 /**
  *
- * @author Fujitsju
+ * @author HussinMhahoud
  */
 public class Testopen extends javax.swing.JFrame {
 
